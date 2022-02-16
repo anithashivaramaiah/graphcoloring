@@ -1,5 +1,5 @@
 # graphcoloring
-Graph coloring for 4 vertices
+Graph coloring for 5 vertices
 This program is used to find the minimum number of colors required to color a graph.
 
 
@@ -13,6 +13,6 @@ Then, compile the file using the command: python graphcoloring.py
 you will get the output as below..
 
 Solution does Exists: Following are colors assigned to the graph 
-1 2 3 2                                                                   
+1 2 3 2 3                                                                  
 
-#We can see that minimum 3 colors are required to color the graph with 4 vertices. 
+#We can see that minimum 3 colors are required to color the graph with 5 vertices. 
